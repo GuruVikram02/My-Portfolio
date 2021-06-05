@@ -9,14 +9,14 @@ section{
     background:rgb(0, 0, 0);
 }
  header{
-     position: absolute;
+     position: center;
      top:0;
      left:0;
      width: 100%;
      padding: 40px 100px;
      display: flex;
      justify-content: center;
-     align-items: absolute;
+     align-items: center;
      z-index: 10;
  }
  header .logo{
@@ -45,7 +45,7 @@ section{
      color:#ff0083;
  }
 section{
-position: relative;
+position: center;
 display: flex;
 justify-content: space-between;
 align-items: center;
